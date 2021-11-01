@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+    flex-flow: row;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+  
+.flex-item {
+    padding: 0px;
+    width: 75px;
+    height: 75px;
+    margin: 2px;
+    line-height: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+}
